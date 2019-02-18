@@ -6,7 +6,7 @@ package com.ctc;
 
 import java.util.*;
 
-public class OnePointOne {
+public class IsUnique {
 
     //O(n^2) and doesn't utilize additional data structures
     public static boolean isUniqueNaive(String str) {
