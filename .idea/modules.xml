@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArraysandStrings.iml" filepath="$PROJECT_DIR$/ArraysandStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms.iml" />
     </modules>
   </component>
 </project>
